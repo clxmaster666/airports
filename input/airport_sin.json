@@ -1,6 +1,5 @@
 {
-    "datas": [
-    {
+    "datas": [{
             "airport_code": "QPG",
             "city_code": "SIN",
             "airport_en_name": "Singapore Paya Lebar Airport",
@@ -11,7 +10,8 @@
             "gap2": ",",
             "city_en_name": "Singapore",
             "city_keywords": "新加坡,新加坡,Singapore"
-        }, {
+        }, 
+        {
             "airport_code": "SIN",
             "city_code": "SIN",
             "airport_en_name": "Changi Airport",
@@ -34,6 +34,5 @@
             "gap2": ",",
             "city_en_name": "Singapore",
             "city_keywords": "新加坡,新加坡,Singapore"
-        }
-    ]
+        }]
 }
