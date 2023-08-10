@@ -1,0 +1,39 @@
+{
+    "datas": [
+    {
+            "airport_code": "QPG",
+            "city_code": "SIN",
+            "airport_en_name": "Singapore Paya Lebar Airport",
+            "country_en_name": "Singapore",
+            "city_name_sim": "新加坡",
+            "gap1": ",",
+            "city_name_fan": "新加坡",
+            "gap2": ",",
+            "city_en_name": "Singapore",
+            "city_keywords": "新加坡,新加坡,Singapore"
+        }, {
+            "airport_code": "SIN",
+            "city_code": "SIN",
+            "airport_en_name": "Changi Airport",
+            "country_en_name": "Singapore",
+            "city_name_sim": "新加坡",
+            "gap1": ",",
+            "city_name_fan": "新加坡",
+            "gap2": ",",
+            "city_en_name": "Singapore",
+            "city_keywords": "新加坡,新加坡,Singapore"
+        },
+ 		{
+            "airport_code": "XSP",
+            "city_code": "SIN",
+            "airport_en_name": "Singapore Seletar Airport",
+            "country_en_name": "Singapore",
+            "city_name_sim": "新加坡",
+            "gap1": ",",
+            "city_name_fan": "新加坡",
+            "gap2": ",",
+            "city_en_name": "Singapore",
+            "city_keywords": "新加坡,新加坡,Singapore"
+        }
+    ]
+}
